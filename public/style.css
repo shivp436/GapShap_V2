@@ -136,9 +136,9 @@ body {
 
 #notify #typingText {
     visibility: hidden;
-    position: relative;
+    position: fixed;
     color: #74409e;
-    bottom: 40px;
+    bottom: 10vh;
     padding: 3px;
 
 }
